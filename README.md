@@ -26,7 +26,7 @@
   <p align="center">
     Proyecto basado en el caso de estudio de la aplicación web Help Me IU Digital
     <br />
-    <a href="https://github.com/eddysantiagoo/BackEnd-App-Senadores"><strong>Explora la documentación! »</strong></a>
+    <a href="https://github.com/osm3030/Backend-Helpmeiudigital"><strong>Explora la documentación! »</strong></a>
     <br />
     <br />
     <a href="https://github.com/osm3030">Oscar Andres Mantilla Franco</a>
